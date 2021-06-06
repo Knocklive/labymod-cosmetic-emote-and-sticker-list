@@ -1,0 +1,1312 @@
+[
+    {
+      "id": 1,
+      "name": "Halloween-Pack",
+      "stickers": [
+        {
+          "id": 1,
+          "name": "Pumpkin",
+          "tags": [
+            "halloween",
+            "k\u00fcrbis",
+            "pumpkin"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Happy Halloween",
+          "tags": [
+            "halloween",
+            "frohe",
+            "happy"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Trick or treat",
+          "tags": [
+            "halloween",
+            "trick",
+            "treat",
+            "s\u00fc\u00dfes",
+            "saures"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Boo",
+          "tags": [
+            "halloween",
+            "scared",
+            "boo"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Ghost",
+          "tags": [
+            "halloween",
+            "scary",
+            "ghost",
+            "geist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Christmas-Pack",
+      "stickers": [
+        {
+          "id": 6,
+          "name": "Santa",
+          "tags": [
+            "christmas",
+            "weihnachten",
+            "xmas",
+            "santa"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Reindeer",
+          "tags": [
+            "christmas",
+            "weihnachten",
+            "xmas",
+            "reindeer",
+            "rentier"
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Merry Christmas",
+          "tags": [
+            "christmas",
+            "weihnachten",
+            "xmas",
+            "merry",
+            "frohe",
+            "weihnacht"
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Hohoho",
+          "tags": [
+            "christmas",
+            "weihnachten",
+            "xmas",
+            "hohoho"
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Christmas Ball",
+          "tags": [
+            "christmas",
+            "weihnachten",
+            "xmas",
+            "ball",
+            "tree"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Reved-Pack",
+      "stickers": [
+        {
+          "id": 17,
+          "name": "Reved Derp",
+          "tags": [
+            "reved",
+            "derp"
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Reved Hi",
+          "tags": [
+            "reved",
+            "hi",
+            "hallo",
+            "hello",
+            "hey"
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Reved Love",
+          "tags": [
+            "reved",
+            "love",
+            "liebe"
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Reved Patrick",
+          "tags": [
+            "reved",
+            "patrick",
+            "star"
+          ]
+        },
+        {
+          "id": 21,
+          "name": "Reved Rip",
+          "tags": [
+            "reved",
+            "rip",
+            "rest",
+            "in",
+            "peace"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Valentine's Day",
+      "stickers": [
+        {
+          "id": 22,
+          "name": "Heart",
+          "tags": [
+            "heart",
+            "herz",
+            "valentine",
+            "love"
+          ]
+        },
+        {
+          "id": 23,
+          "name": "Love Chocolate",
+          "tags": [
+            "heart",
+            "chocolate",
+            "valentine",
+            "love",
+            "schokolade"
+          ]
+        },
+        {
+          "id": 24,
+          "name": "Love Glasses",
+          "tags": [
+            "love",
+            "glasses",
+            "glass",
+            "valentine",
+            "brille"
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Love Teddy",
+          "tags": [
+            "love",
+            "teddy",
+            "valentine",
+            "b\u00e4r",
+            "bear"
+          ]
+        },
+        {
+          "id": 26,
+          "name": "Love Rings",
+          "tags": [
+            "love",
+            "ring",
+            "rings",
+            "valentine",
+            "ringe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Stay-Safe-Pack",
+      "stickers": [
+        {
+          "id": 27,
+          "name": "Social Distancing",
+          "tags": [
+            "corona",
+            "virus",
+            "covid",
+            "stay",
+            "safe",
+            "social",
+            "distancing"
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Wash your hands",
+          "tags": [
+            "corona",
+            "virus",
+            "covid",
+            "stay",
+            "safe",
+            "wash",
+            "hands",
+            "washing",
+            "hand"
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Don't touch your face",
+          "tags": [
+            "corona",
+            "virus",
+            "covid",
+            "stay",
+            "safe",
+            "face",
+            "touch"
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Stay at home",
+          "tags": [
+            "corona",
+            "virus",
+            "covid",
+            "stay",
+            "safe",
+            "home"
+          ]
+        },
+        {
+          "id": 31,
+          "name": "Virus",
+          "tags": [
+            "corona",
+            "virus",
+            "covid",
+            "stay",
+            "safe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "5 Years LabyMod",
+      "stickers": [
+        {
+          "id": 34,
+          "name": "LabyMod Logo",
+          "tags": [
+            "labymod",
+            "logo"
+          ]
+        },
+        {
+          "id": 35,
+          "name": "LabyCool",
+          "tags": [
+            "labymod",
+            "logo",
+            "cool"
+          ]
+        },
+        {
+          "id": 36,
+          "name": "5 Years",
+          "tags": [
+            "labymod",
+            "5",
+            "years",
+            "jahre",
+            "geburtstag",
+            "birthday"
+          ]
+        },
+        {
+          "id": 37,
+          "name": "LabyWings",
+          "tags": [
+            "labymod",
+            "labywings",
+            "wings"
+          ]
+        },
+        {
+          "id": 38,
+          "name": "Laby Chest",
+          "tags": [
+            "labymod",
+            "chest"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Space-Pack",
+      "stickers": [
+        {
+          "id": 39,
+          "name": "Pika Space",
+          "tags": [
+            "space",
+            "spacex",
+            "pika"
+          ]
+        },
+        {
+          "id": 40,
+          "name": "Pog Space",
+          "tags": [
+            "space",
+            "spacex",
+            "pog"
+          ]
+        },
+        {
+          "id": 41,
+          "name": "Space Hi",
+          "tags": [
+            "space",
+            "spacex",
+            "hi"
+          ]
+        },
+        {
+          "id": 42,
+          "name": "Space Krone",
+          "tags": [
+            "space",
+            "spacex",
+            "krone",
+            "crown"
+          ]
+        },
+        {
+          "id": 43,
+          "name": "Space Love",
+          "tags": [
+            "space",
+            "spacex",
+            "love",
+            "liebe",
+            "spacelove"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Schmockyyy-Pack",
+      "stickers": [
+        {
+          "id": 44,
+          "name": "Schmockyyy Superman",
+          "tags": [
+            "schmockyyy",
+            "superman"
+          ]
+        },
+        {
+          "id": 45,
+          "name": "Schmockyyy Logo",
+          "tags": [
+            "schmockyyy",
+            "logo"
+          ]
+        },
+        {
+          "id": 46,
+          "name": "Schmockyyy GG",
+          "tags": [
+            "schmockyyy",
+            "GG"
+          ]
+        },
+        {
+          "id": 47,
+          "name": "Schmockyyy YYY",
+          "tags": [
+            "schmockyyy",
+            "yyy"
+          ]
+        },
+        {
+          "id": 48,
+          "name": "Schmockyyy Banane",
+          "tags": [
+            "schmockyyy",
+            "banane",
+            "banana"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "FlexRace-Pack",
+      "stickers": [
+        {
+          "id": 49,
+          "name": "FlexiCap",
+          "tags": [
+            "flexrace",
+            "flexicap",
+            "cap"
+          ]
+        },
+        {
+          "id": 50,
+          "name": "FlexiCute",
+          "tags": [
+            "flexrace",
+            "flexicute",
+            "cute"
+          ]
+        },
+        {
+          "id": 51,
+          "name": "FlexiLost",
+          "tags": [
+            "flexrace",
+            "flexilost",
+            "lost"
+          ]
+        },
+        {
+          "id": 52,
+          "name": "FlexiUff",
+          "tags": [
+            "flexrace",
+            "flexiuff",
+            "uff"
+          ]
+        },
+        {
+          "id": 53,
+          "name": "FlexiWow",
+          "tags": [
+            "flexrace",
+            "flexiwow",
+            "wow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Lumpi-Pack",
+      "stickers": [
+        {
+          "id": 54,
+          "name": "Lumpi Love",
+          "tags": [
+            "lumpi",
+            "love",
+            "heart"
+          ]
+        },
+        {
+          "id": 55,
+          "name": "Lumpi Angry",
+          "tags": [
+            "lumpi",
+            "angry",
+            "wut",
+            "b\u00f6se"
+          ]
+        },
+        {
+          "id": 56,
+          "name": "Lumpi Clap",
+          "tags": [
+            "lumpi",
+            "clap",
+            "klatschen",
+            "wow"
+          ]
+        },
+        {
+          "id": 57,
+          "name": "Lumpi Facepalm",
+          "tags": [
+            "lumpi",
+            "facepalm",
+            "uff"
+          ]
+        },
+        {
+          "id": 58,
+          "name": "Lumpi Sad",
+          "tags": [
+            "lumpi",
+            "sad",
+            "traurig",
+            "cry",
+            "weinen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Spiritendo-Pack",
+      "stickers": [
+        {
+          "id": 59,
+          "name": "Spiritendo Aw",
+          "tags": [
+            "spiritendo",
+            "aw",
+            "aww"
+          ]
+        },
+        {
+          "id": 60,
+          "name": "Spiritendo Cry",
+          "tags": [
+            "spiritendo",
+            "cry",
+            "weinen"
+          ]
+        },
+        {
+          "id": 61,
+          "name": "Spiritendo Hype",
+          "tags": [
+            "spiritendo",
+            "hype"
+          ]
+        },
+        {
+          "id": 62,
+          "name": "Spiritendo Love",
+          "tags": [
+            "spiritendo",
+            "love"
+          ]
+        },
+        {
+          "id": 63,
+          "name": "Spiritendo Sip",
+          "tags": [
+            "spiritendo",
+            "sip"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Derkev99-Pack",
+      "stickers": [
+        {
+          "id": 64,
+          "name": "Derkev99 Bar",
+          "tags": [
+            "derkev99",
+            "bar",
+            "heart"
+          ]
+        },
+        {
+          "id": 65,
+          "name": "Derkev99 Bar Hype",
+          "tags": [
+            "derkev99",
+            "bar",
+            "hype"
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Derkev99 Dab",
+          "tags": [
+            "derkev99",
+            "dab"
+          ]
+        },
+        {
+          "id": 67,
+          "name": "Derkev99 Wild",
+          "tags": [
+            "derkev99",
+            "wild"
+          ]
+        },
+        {
+          "id": 68,
+          "name": "Derkev99 Zack",
+          "tags": [
+            "derkev99",
+            "zack"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Floex-Pack",
+      "stickers": [
+        {
+          "id": 69,
+          "name": "Floex GG",
+          "tags": [
+            "floex",
+            "gg",
+            "good",
+            "game"
+          ]
+        },
+        {
+          "id": 70,
+          "name": "Floex King",
+          "tags": [
+            "floex",
+            "king",
+            "crown"
+          ]
+        },
+        {
+          "id": 71,
+          "name": "Floex Love",
+          "tags": [
+            "floex",
+            "love",
+            "heart"
+          ]
+        },
+        {
+          "id": 72,
+          "name": "Floex Laugh",
+          "tags": [
+            "floex",
+            "lul",
+            "lol",
+            "laugh",
+            "lachen"
+          ]
+        },
+        {
+          "id": 73,
+          "name": "Floex Popcorn",
+          "tags": [
+            "floex",
+            "popcorn",
+            "movie",
+            "dramatic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Flags-Pack",
+      "stickers": [
+        {
+          "id": 74,
+          "name": "Germany",
+          "tags": [
+            "flag",
+            "germany",
+            "german",
+            "de",
+            "ger"
+          ]
+        },
+        {
+          "id": 75,
+          "name": "United States",
+          "tags": [
+            "flags",
+            "united states",
+            "us",
+            "america"
+          ]
+        },
+        {
+          "id": 76,
+          "name": "France",
+          "tags": [
+            "flags",
+            "france",
+            "french",
+            "fr"
+          ]
+        },
+        {
+          "id": 77,
+          "name": "Spain",
+          "tags": [
+            "flags",
+            "spain",
+            "spanish",
+            "es"
+          ]
+        },
+        {
+          "id": 78,
+          "name": "Italy",
+          "tags": [
+            "flags",
+            "italy",
+            "italian",
+            "it"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Kroonul-Pack",
+      "stickers": [
+        {
+          "id": 79,
+          "name": "Kroonul Hey",
+          "tags": [
+            "kroonul",
+            "hey",
+            "hi",
+            "hallo"
+          ]
+        },
+        {
+          "id": 80,
+          "name": "Kroonul Lost",
+          "tags": [
+            "kroonul",
+            "lost",
+            "oof"
+          ]
+        },
+        {
+          "id": 81,
+          "name": "Kroonul Hype",
+          "tags": [
+            "kroonul",
+            "hype"
+          ]
+        },
+        {
+          "id": 82,
+          "name": "Kroonul Laugh",
+          "tags": [
+            "kroonul",
+            "lol",
+            "laugh",
+            "haha"
+          ]
+        },
+        {
+          "id": 83,
+          "name": "Kroonul Love",
+          "tags": [
+            "kroonul",
+            "love",
+            "liebe"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Dobermannx-Pack",
+      "stickers": [
+        {
+          "id": 84,
+          "name": "Dobermannx Kopf",
+          "tags": [
+            "Dobermannx",
+            "kopf",
+            "head",
+            "skin"
+          ]
+        },
+        {
+          "id": 85,
+          "name": "Dobermannx H\u00f6lle",
+          "tags": [
+            "Dobermannx",
+            "geh",
+            "doch",
+            "in",
+            "die",
+            "h\u00f6lle",
+            "cb7"
+          ]
+        },
+        {
+          "id": 86,
+          "name": "Dobermannx Citybuild 7",
+          "tags": [
+            "Dobermannx",
+            "citybuild7",
+            "7",
+            "citybuild",
+            "cb7"
+          ]
+        },
+        {
+          "id": 87,
+          "name": "Dobermannx Logo",
+          "tags": [
+            "Dobermannx",
+            "logo",
+            "youtube"
+          ]
+        },
+        {
+          "id": 88,
+          "name": "Dobermannx Alpha",
+          "tags": [
+            "Dobermannx",
+            "alpha"
+          ]
+        }
+      ]
+    },
+  {
+    "id": 17,
+    "name": "xpieps-Pack",
+    "stickers": [
+        {
+            "id": 89,
+            "name": "xpieps_ basic",
+            "tags": [
+                "xpieps_",
+                "huhn",
+                "chicken",
+                "basic",
+                "cute",
+                "k\u00fcken",
+                "cute"
+            ]
+        },
+        {
+            "id": 90,
+            "name": "xpieps_ comfy",
+            "tags": [
+                "xpieps_",
+                "comfy",
+                "chicken",
+                "k\u00fcken",
+                "decke",
+                "cute"
+            ]
+        },
+        {
+            "id": 91,
+            "name": "xpieps_ gift",
+            "tags": [
+                "xpieps_",
+                "k\u00fcken",
+                "geschenk",
+                "cute",
+                "gift",
+                "present",
+                "chicken"
+            ]
+        },
+        {
+            "id": 92,
+            "name": "xpieps_ cookie",
+            "tags": [
+                "xpieps_",
+                "k\u00fcken",
+                "cute",
+                "cookie",
+                "keks",
+                "chicken"
+            ]
+        },
+        {
+            "id": 93,
+            "name": "xpieps_ flower",
+            "tags": [
+                "xpieps_",
+                "k\u00fcken",
+                "cute",
+                "flower",
+                "blume",
+                "chicken"
+            ]
+        }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "PlayFlex-Pack",
+    "stickers": [
+        {
+            "id": 94,
+            "name": "PLAYFLEXFLEX",
+            "tags": [
+                "playflex",
+                "flex"
+            ]
+        },
+        {
+            "id": 95,
+            "name": "PLAYFLEXHERZ",
+            "tags": [
+                "playflex",
+                "herz",
+                "heart"
+            ]
+        },
+        {
+            "id": 96,
+            "name": "PLAYFLEXMOIMEISTER",
+            "tags": [
+                "playflex",
+                "moin",
+                "meister",
+                "hello",
+                "hallo"
+            ]
+        },
+        {
+            "id": 97,
+            "name": "PLAYFLEXVERSTECKEN",
+            "tags": [
+                "playflex",
+                "verstecken"
+            ]
+        },
+        {
+            "id": 98,
+            "name": "PLAYFLEXLOOK",
+            "tags": [
+                "playflex",
+                "look",
+                "schau",
+                "zeigen"
+            ]
+        }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "SnokeLP-Pack",
+    "stickers": [
+        {
+            "id": 99,
+            "name": "SnokeLp HYPE",
+            "tags": [
+                "wolf",
+                "snoke",
+                "lp",
+                "hype"
+            ]
+        },
+        {
+            "id": 100,
+            "name": "SnokeLP HI",
+            "tags": [
+                "wolf",
+                "snoke",
+                "lp",
+                "hi"
+            ]
+        },
+        {
+            "id": 101,
+            "name": "SnokeLP LOST",
+            "tags": [
+                "wolf",
+                "snoke",
+                "lp",
+                "lost"
+            ]
+        },
+        {
+            "id": 102,
+            "name": "SnokeLP LOVE",
+            "tags": [
+                "wolf",
+                "snoke",
+                "lp",
+                "heart",
+                "love"
+            ]
+        },
+        {
+            "id": 103,
+            "name": "SnokeLP ANGRY",
+            "tags": [
+                "wolf",
+                "snoke",
+                "lp",
+                "angry"
+            ]
+        }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Valentine's Day 2021",
+    "stickers": [
+        {
+            "id": 104,
+            "name": "Give heart",
+            "tags": [
+                "heart",
+                "hands",
+                "love"
+            ]
+        },
+        {
+            "id": 105,
+            "name": "Heart arrow",
+            "tags": [
+                "heart",
+                "arrow",
+                "love"
+            ]
+        },
+        {
+            "id": 106,
+            "name": "Heart eyes",
+            "tags": [
+                "heart",
+                "eyes",
+                "love"
+            ]
+        },
+        {
+            "id": 107,
+            "name": "Heart locked",
+            "tags": [
+                "heart",
+                "love",
+                "lock"
+            ]
+        },
+        {
+            "id": 108,
+            "name": "Heart open",
+            "tags": [
+                "heart",
+                "love",
+                "lock"
+            ]
+        }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Cooodex-Pack",
+    "stickers": [
+        {
+            "id": 109,
+            "name": "Codex Sad",
+            "tags": [
+                "codex",
+                "sad",
+                "traurig"
+            ]
+        },
+        {
+            "id": 110,
+            "name": "Codex Angry",
+            "tags": [
+                "codex",
+                "angry",
+                "w\u00fctend"
+            ]
+        },
+        {
+            "id": 111,
+            "name": "Codex Happy",
+            "tags": [
+                "codey",
+                "happy",
+                "gl\u00fccklich"
+            ]
+        },
+        {
+            "id": 112,
+            "name": "Codex GG",
+            "tags": [
+                "codex",
+                "gg",
+                "GG"
+            ]
+        },
+        {
+            "id": 113,
+            "name": "Codex Love",
+            "tags": [
+                "codex",
+                "love",
+                "liebe",
+                "heart",
+                "herz"
+            ]
+        }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Issei_Kun-Pack",
+    "stickers": [
+        {
+            "id": 114,
+            "name": "Issei_Kun Borsti",
+            "tags": [
+                "issei",
+                "borsti",
+                "schwein"
+            ]
+        },
+        {
+            "id": 115,
+            "name": "Issei_Kun Hasi",
+            "tags": [
+                "hase",
+                "rabbit",
+                "issei"
+            ]
+        },
+        {
+            "id": 116,
+            "name": "Issei_Kun Cool",
+            "tags": [
+                "hase",
+                "rabbit",
+                "issei",
+                "cool"
+            ]
+        },
+        {
+            "id": 117,
+            "name": "Issei_Kun Eviyou",
+            "tags": [
+                "issei",
+                "eviyou"
+            ]
+        },
+        {
+            "id": 118,
+            "name": "Issei_Kun Issei",
+            "tags": [
+                "issei"
+            ]
+        }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Skunked Sticker Pack",
+    "stickers": [
+        {
+            "id": 119,
+            "name": "Skunked hey lol",
+            "tags": [
+                "hey",
+                "lol",
+                "ultramlg",
+                "skunked"
+            ]
+        },
+        {
+            "id": 120,
+            "name": "Skunked BUSSIN",
+            "tags": [
+                "bussin",
+                "skunked",
+                "ultramlg"
+            ]
+        },
+        {
+            "id": 121,
+            "name": "Skunked !?",
+            "tags": [
+                "!",
+                "?",
+                "skunked",
+                "ultramlg"
+            ]
+        },
+        {
+            "id": 122,
+            "name": "Skunked lip bite",
+            "tags": [
+                "lipbite",
+                "skunked",
+                "ultramlg"
+            ]
+        },
+        {
+            "id": 123,
+            "name": "Skunked weary",
+            "tags": [
+                "weary",
+                "ultramlg",
+                "skunked"
+            ]
+        }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Omarmu-Pack",
+    "stickers": [
+        {
+            "id": 124,
+            "name": "Omarmu Owa",
+            "tags": [
+                "omarmu",
+                "owa",
+                "dog"
+            ]
+        },
+        {
+            "id": 125,
+            "name": "Omarmu Heart",
+            "tags": [
+                "omarmu",
+                "heart",
+                "dog",
+                "herz"
+            ]
+        },
+        {
+            "id": 126,
+            "name": "Omarmu Pog",
+            "tags": [
+                "omarmu",
+                "pog",
+                "dog"
+            ]
+        },
+        {
+            "id": 127,
+            "name": "Omarmu Aww",
+            "tags": [
+                "omarmu",
+                "cute",
+                "aw",
+                "dog"
+            ]
+        },
+        {
+            "id": 128,
+            "name": "Omarmu Ally",
+            "tags": [
+                "omarmu",
+                "ally",
+                "dog"
+          ]
+        }
+      ]
+    }
+  ]
