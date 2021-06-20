@@ -1,298 +1,306 @@
 [
-    {
-      "id": 0,
-      "name": "Cloak"
-    },
-    {
-      "id": 1,
-      "name": "Wolf Tail"
-    },
-    {
-      "id": 2,
-      "name": "LabyWings"
-    },
-    {
-      "id": 3,
-      "name": "Cat Tail"
-    },
-    {
-      "id": 4,
-      "name": "Moehritz"
-    },
-    {
-      "id": 5,
-      "name": "Beard"
-    },
-    {
-      "id": 6,
-      "name": "Rednose"
-    },
-    {
-      "id": 7,
-      "name": "Hat"
-    },
-    {
-      "id": 8,
-      "name": "Tool"
-    },
-    {
-      "id": 9,
-      "name": "Halo"
-    },
-    {
-      "id": 10,
-      "name": "Antlers"
-    },
-    {
-      "id": 11,
-      "name": "Rabbit"
-    },
-    {
-      "id": 12,
-      "name": "Devil Horns"
-    },
-    {
-      "id": 13,
-      "name": "Crystal Wings"
-    },
-    {
-      "id": 14,
-      "name": "Steampunk Wings"
-    },
-    {
-      "id": 15,
-      "name": "Halloween"
-    },
-    {
-      "id": 16,
-      "name": "Xmas Hat"
-    },
-    {
-      "id": 17,
-      "name": "Stegi Hat"
-    },
-    {
-      "id": 18,
-      "name": "Merch Crown"
-    },
-    {
-      "id": 19,
-      "name": "Cap"
-    },
-    {
-      "id": 20,
-      "name": "Backpack"
-    },
-    {
-      "id": 21,
-      "name": "Cat ears"
-    },
-    {
-      "id": 22,
-      "name": "Bandana"
-    },
-    {
-      "id": 23,
-      "name": "Headset"
-    },
-    {
-      "id": 24,
-      "name": "Angel Wings"
-    },
-    {
-      "id": 25,
-      "name": "Flower"
-    },
-    {
-      "id": 26,
-      "name": "Dog"
-    },
-    {
-      "id": 27,
-      "name": "Shoes"
-    },
-    {
-      "id": 28,
-      "name": "Royal Crown"
-    },
-    {
-      "id": 29,
-      "name": "GrieferGames Belt"
-    },
-    {
-      "id": 30,
-      "name": "Reved Fire Hand"
-    },
-    {
-      "id": 31,
-      "name": "Cover Mask"
-    },
-    {
-      "id": 32,
-      "name": "Snoxh Eyes"
-    },
-    {
-      "id": 33,
-      "name": "Watch"
-    },
-    {
-      "id": 34,
-      "name": "Kawaii Mask"
-    },
-    {
-      "id": 35,
-      "name": "Butterfly Wings"
-    },
-    {
-      "id": 36,
-      "name": "Eyelids"
-    },
-    {
-      "id": 45,
-      "name": "Parrot"
-    },
-    {
-      "id": 46,
-      "name": "Minime"
-    },
-    {
-      "id": 47,
-      "name": "Goggles"
-    },
-    {
-      "id": 48,
-      "name": "Poop"
-    },
-    {
-      "id": 49,
-      "name": "Bee"
-    },
-    {
-      "id": 50,
-      "name": "Glasses"
-    },
-    {
-      "id": 51,
-      "name": "Heartglasses"
-    },
-    {
-      "id": 52,
-      "name": "Owl"
-    },
-    {
-      "id": 53,
-      "name": "Baloon_Test"
-    },
-    {
-      "id": 54,
-      "name": "Devil Wings"
-    },
-    {
-      "id": 55,
-      "name": "Labytest"
-    },
-    {
-      "id": 56,
-      "name": "Unicorn"
-    },
-    {
-      "id": 57,
-      "name": "Flowerdiadem"
-    },
-    {
-      "id": 58,
-      "name": "Unicornhorn"
-    },
-    {
-      "id": 59,
-      "name": "Fanny Pack"
-    },
-    {
-      "id": 60,
-      "name": "Mechanic Wings"
-    },
-    {
-      "id": 61,
-      "name": "Toucan"
-    },
-    {
-      "id": 62,
-      "name": "Panda"
-    },
-    {
-      "id": 63,
-      "name": "Monkey"
-    },
-    {
-      "id": 64,
-      "name": "Fisher Hat"
-    },
-    {
-      "id": 65,
-      "name": "Pinguin"
-    },
-    {
-      "id": 66,
-      "name": "Sunglasses"
-    },
-    {
-      "id": 67,
-      "name": "Chiwawa"
-    },
-    {
-      "id": 68,
-      "name": "Racoon"
-    },
-    {
-      "id": 69,
-      "name": "Koala"
-    },
-    {
-      "id": 70,
-      "name": "Rabbit"
-    },
-    {
-      "id": 71,
-      "name": "Hipsterglasses"
-    },
-    {
-      "id": 72,
-      "name": "Flower Crown"
-    },
-    {
-      "id": 73,
-      "name": "Tiara"
-    },
-    {
-      "id": 74,
-      "name": "Testcosmetic"
-    },
-    {
-      "id": 75,
-      "name": "Partyhat"
-    },
-    {
-      "id": 76,
-      "name": "Fire Wings"
-    },
-    {
-      "id": 77,
-      "name": "Panda"
-    },
-    {
-      "id": 78,
-      "name": "Gem"
-    },
-    {
-      "id": 79,
-      "name": "Slime"
-    },
-    {
-      "id": 80,
-      "name": "Gun"
-    },
-    {
-      "id": 81,
-      "name": "Blocky"
-    }
-  ]
+  {
+    "id": 0,
+    "name": "Cloak"
+  },
+  {
+    "id": 1,
+    "name": "Wolf Tail"
+  },
+  {
+    "id": 2,
+    "name": "LabyWings"
+  },
+  {
+    "id": 3,
+    "name": "Cat Tail"
+  },
+  {
+    "id": 4,
+    "name": "Moehritz"
+  },
+  {
+    "id": 5,
+    "name": "Beard"
+  },
+  {
+    "id": 6,
+    "name": "Rednose"
+  },
+  {
+    "id": 7,
+    "name": "Hat"
+  },
+  {
+    "id": 8,
+    "name": "Tool"
+  },
+  {
+    "id": 9,
+    "name": "Halo"
+  },
+  {
+    "id": 10,
+    "name": "Antlers"
+  },
+  {
+    "id": 11,
+    "name": "Rabbit"
+  },
+  {
+    "id": 12,
+    "name": "Devil Horns"
+  },
+  {
+    "id": 13,
+    "name": "Crystal Wings"
+  },
+  {
+    "id": 14,
+    "name": "Steampunk Wings"
+  },
+  {
+    "id": 15,
+    "name": "Halloween"
+  },
+  {
+    "id": 16,
+    "name": "Xmas Hat"
+  },
+  {
+    "id": 17,
+    "name": "Stegi Hat"
+  },
+  {
+    "id": 18,
+    "name": "Merch Crown"
+  },
+  {
+    "id": 19,
+    "name": "Cap"
+  },
+  {
+    "id": 20,
+    "name": "Backpack"
+  },
+  {
+    "id": 21,
+    "name": "Cat ears"
+  },
+  {
+    "id": 22,
+    "name": "Bandana"
+  },
+  {
+    "id": 23,
+    "name": "Headset"
+  },
+  {
+    "id": 24,
+    "name": "Angel Wings"
+  },
+  {
+    "id": 25,
+    "name": "Flower"
+  },
+  {
+    "id": 26,
+    "name": "Dog"
+  },
+  {
+    "id": 27,
+    "name": "Shoes"
+  },
+  {
+    "id": 28,
+    "name": "Royal Crown"
+  },
+  {
+    "id": 29,
+    "name": "GrieferGames Belt"
+  },
+  {
+    "id": 30,
+    "name": "Reved Fire Hand"
+  },
+  {
+    "id": 31,
+    "name": "Cover Mask"
+  },
+  {
+    "id": 32,
+    "name": "Snoxh Eyes"
+  },
+  {
+    "id": 33,
+    "name": "Watch"
+  },
+  {
+    "id": 34,
+    "name": "Kawaii Mask"
+  },
+  {
+    "id": 35,
+    "name": "Butterfly Wings"
+  },
+  {
+    "id": 36,
+    "name": "Eyelids"
+  },
+  {
+    "id": 38,
+    "name": "Baby Dragon"
+  },
+  {
+    "id": 44,
+    "name": "Bunny Shoes"
+  },
+  {
+    "id": 45,
+    "name": "Parrot"
+  },
+  {
+    "id": 46,
+    "name": "Minime"
+  },
+  {
+    "id": 47,
+    "name": "Goggles"
+  },
+  {
+    "id": 48,
+    "name": "Poop"
+  },
+  {
+    "id": 49,
+    "name": "Bee"
+  },
+  {
+    "id": 50,
+    "name": "Glasses"
+  },
+  {
+    "id": 51,
+    "name": "Heartglasses"
+  },
+  {
+    "id": 52,
+    "name": "Owl"
+  },
+  {
+    "id": 53,
+    "name": "Baloon_Test"
+  },
+  {
+    "id": 54,
+    "name": "Devil Wings"
+  },
+  {
+    "id": 55,
+    "name": "Labytest"
+  },
+  {
+    "id": 56,
+    "name": "Unicorn"
+  },
+  {
+    "id": 57,
+    "name": "Flowerdiadem"
+  },
+  {
+    "id": 58,
+    "name": "Unicornhorn"
+  },
+  {
+    "id": 59,
+    "name": "Fanny Pack"
+  },
+  {
+    "id": 60,
+    "name": "Mechanic Wings"
+  },
+  {
+    "id": 61,
+    "name": "Toucan"
+  },
+  {
+    "id": 62,
+    "name": "Panda"
+  },
+  {
+    "id": 63,
+    "name": "Monkey"
+  },
+  {
+    "id": 64,
+    "name": "Fisher Hat"
+  },
+  {
+    "id": 65,
+    "name": "Pinguin"
+  },
+  {
+    "id": 66,
+    "name": "Sunglasses"
+  },
+  {
+    "id": 67,
+    "name": "Chiwawa"
+  },
+  {
+    "id": 68,
+    "name": "Racoon"
+  },
+  {
+    "id": 69,
+    "name": "Koala"
+  },
+  {
+    "id": 70,
+    "name": "Rabbit"
+  },
+  {
+    "id": 71,
+    "name": "Hipsterglasses"
+  },
+  {
+    "id": 72,
+    "name": "Flower Crown"
+  },
+  {
+    "id": 73,
+    "name": "Tiara"
+  },
+  {
+    "id": 74,
+    "name": "Testcosmetic"
+  },
+  {
+    "id": 75,
+    "name": "Partyhat"
+  },
+  {
+    "id": 76,
+    "name": "Fire Wings"
+  },
+  {
+    "id": 77,
+    "name": "Panda"
+  },
+  {
+    "id": 78,
+    "name": "Gem"
+  },
+  {
+    "id": 79,
+    "name": "Slime"
+  },
+  {
+    "id": 80,
+    "name": "Gun"
+  },
+  {
+    "id": 81,
+    "name": "Blocky"
+  }
+]
