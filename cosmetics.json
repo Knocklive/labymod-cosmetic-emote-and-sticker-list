@@ -148,14 +148,6 @@
     "name": "Eyelids"
   },
   {
-    "id": 38,
-    "name": "Baby Dragon"
-  },
-  {
-    "id": 44,
-    "name": "Bunny Shoes"
-  },
-  {
     "id": 45,
     "name": "Parrot"
   },
@@ -285,7 +277,7 @@
   },
   {
     "id": 77,
-    "name": "Panda"
+    "name": "TEST"
   },
   {
     "id": 78,
@@ -302,5 +294,9 @@
   {
     "id": 81,
     "name": "Blocky"
+  },
+  {
+    "id": 92,
+    "name": "Flag"
   }
 ]
