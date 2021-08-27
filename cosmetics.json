@@ -148,6 +148,10 @@
     "name": "Eyelids"
   },
   {
+    "id": 37,
+    "name": "Moose Hat"
+  },
+  {
     "id": 38,
     "name": "Bunny Shoes"
   },
@@ -273,7 +277,7 @@
   },
   {
     "id": 74,
-    "name": "Testcosmetic"
+    "name": "Undefined *(if you have this, please contact Knocklive#5165)*"
   },
   {
     "id": 75,
@@ -285,7 +289,7 @@
   },
   {
     "id": 77,
-    "name": "TEST"
+    "name": "Baby Panda"
   },
   {
     "id": 78,
@@ -305,10 +309,50 @@
   },
   {
     "id": 92,
-    "name": "Flag"
+    "name": "Flag *Limited*"
+  },
+  {
+    "id": 93,
+    "name": "Dragon Wings"
+  },
+  {
+    "id": 94,
+    "name": "Swimming ring *Limited*"
+  },
+  {
+    "id": 95,
+    "name": "Katanas"
+  },
+  {
+    "id": 96,
+    "name": "Crab *Limited*"
+  },
+  {
+    "id": 97,
+    "name": "Glasses *Limited*"
+  },
+  {
+    "id": 112,
+    "name": "Divers Mask"
   },
   {
     "id": 113,
     "name": "Sombrero"
+  },
+  {
+    "id": 208,
+    "name": "Necktie"
+  },
+  {
+    "id": 210,
+    "name": "Item Halo"
+  },
+  {
+    "id": 232,
+    "name": "Instruments"
+  },
+  {
+    "id": 255,
+    "name": "Tiara"
   }
 ]
