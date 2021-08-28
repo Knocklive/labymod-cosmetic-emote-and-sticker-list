@@ -1,1 +1,1 @@
-List of all LabyMod Cosmetics, Emotes and Sticker with ID's
+List of all LabyMod cosmetics, emotes and stickers with ID's in json
