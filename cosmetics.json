@@ -354,5 +354,17 @@
   {
     "id": 255,
     "name": "Tiara"
+  },
+  {
+    "id": 328,
+    "name": "Leaves Aura"
+  }, 
+  {
+    "id": 428,
+    "name": "Ghost Aura"
+  },
+  {
+    "id": 412,
+    "name": "Halloween Cat"
   }
 ]
