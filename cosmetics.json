@@ -276,10 +276,6 @@
     "name": "Tiara"
   },
   {
-    "id": 74,
-    "name": "If you have this, please contact Knocklive#5165 (err#74)"
-  },
-  {
     "id": 75,
     "name": "Partyhat"
   },
@@ -340,6 +336,42 @@
     "name": "Sombrero *(Limited)*"
   },
   {
+    "id": 114,
+    "name": "Mustache *(Limited)*"
+  },
+  {
+    "id": 116,
+    "name": "Merch Crown *(Limited)*"
+  },
+  {
+    "id": 155,
+    "name": "Cow Hat"
+  },
+  {
+    "id": 156,
+    "name": "Rabbit"
+  },
+  {
+    "id": 157,
+    "name": "AxelotelHat"
+  },
+  {
+    "id": 169,
+    "name": "Tool"
+  },
+  {
+    "id": 170,
+    "name": "Moose Hat"
+  },
+  {
+    "id": 176,
+    "name": "LabyBag"
+  },
+  {
+    "id": 195,
+    "name": "Unicorn Hat"
+  },
+  {
     "id": 208,
     "name": "Necktie"
   },
@@ -373,11 +405,11 @@
   },
   {
     "id": 485,
-    "name": "If you have this, please contact Knocklive#5165 (err#485)"
+    "name": "Ice Spikes"
   },
   {
     "id": 486,
-    "name": "If you have this, please contact Knocklive#5165 (err#486)"
+    "name": "Winter Boots"
   },
   {
     "id": 487,
@@ -396,12 +428,8 @@
     "name": "Santa Belt"
   },
   {
-    "id": 491,
-    "name": "If you have this, please contact Knocklive#5165 (err491)"
-  },
-  {
     "id": 492,
-    "name": "If you have this, please contact Knocklive#5165 (err492)"
+    "name": "Skis"
   },
   {
     "id": 493,
@@ -409,11 +437,11 @@
   },
   {
     "id": 494,
-    "name": "If you have this, please contact Knocklive#5165 (err494)"
+    "name": "Sandles"
   },
   {
     "id": 495,
-    "name": "If you have this, please contact Knocklive#5165 (err495)"
+    "name": "Winter Gloves"
   },
   {
     "id": 496,
@@ -425,7 +453,7 @@
   },
   {
     "id": 498,
-    "name": "If you have this, please contact Knocklive#5165 (err#498)"
+    "name": "Beanie"
   },
   {
     "id": 499,
@@ -433,22 +461,14 @@
   },
   {
     "id": 500,
-    "name": "If you have this, please contact Knocklive#5165 (err#500)"
-  },
-  {
-    "id": 501,
-    "name": "If you have this, please contact Knocklive#5165 (err#501)"
+    "name": "CandyCane"
   },
   {
     "id": 502,
-    "name": "If you have this, please contact Knocklive#5165 (err#502)"
+    "name": "Ice Shard Aura"
   },
   {
-    "id": 503,
-    "name": "If you have this, please contact Knocklive#5165 (err#503)"
-  },
-  {
-    "id": 504,
-    "name": "If you have this, please contact Knocklive#5165 (err#504)"
+    "name": "BlockyWinter",
+    "id": 515
   }
 ]
