@@ -486,5 +486,25 @@
   {
     "name": "BlockyWinter",
     "id": 515
+  },
+  {
+    "name": "Nametag",
+    "id": 561
+  },
+  {
+    "name": "Bowtie",
+    "id": 563
+  },
+  {
+    "name": "Allay",
+    "id": 566
+  },
+  {
+    "name": "Monocle",
+    "id": 568
+  },
+  {
+    "name": "Flying Crown",
+    "id": 580
   }
 ]
