@@ -506,5 +506,25 @@
   {
     "name": "Flying Crown",
     "id": 580
+  },
+  {
+    "name": "Fireworks",
+    "id": 598
+  },
+  {
+    "name": "Sparkler",
+    "id": 601
+  },
+  {
+    "name": "Party Horn",
+    "id": 603
+  },
+  {
+    "name": "Balloon",
+    "id": 605
+  },
+  {
+    "name": "Rockets",
+    "id": 606
   }
 ]
