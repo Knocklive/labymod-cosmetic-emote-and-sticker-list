@@ -488,6 +488,14 @@
     "id": 515
   },
   {
+    "name": "Animal Shoes",
+    "id": 556
+  },
+  {
+    "name": "Boxing Gloves",
+    "id": 560
+  },
+  {
     "name": "Nametag",
     "id": 561
   },
@@ -508,6 +516,18 @@
     "id": 580
   },
   {
+    "name": "Bubble Pipe",
+    "id": 581
+  },
+  {
+    "name": "Soul Daggers",
+    "id": 586
+  },
+  {
+    "name": "Money Aura",
+    "id": 589
+  },
+  {
     "name": "Fireworks",
     "id": 598
   },
@@ -518,6 +538,10 @@
   {
     "name": "Party Horn",
     "id": 603
+  },
+  {
+    "name": "Laser Swords",
+    "id": 604
   },
   {
     "name": "Balloon",
