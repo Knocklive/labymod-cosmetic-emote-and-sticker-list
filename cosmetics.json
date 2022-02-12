@@ -384,6 +384,10 @@
     "name": "LabyBag"
   },
   {
+    "id": 184,
+    "name": "Hair Bow"
+  },
+  {
     "id": 195,
     "name": "Unicorn Hat"
   },
@@ -539,16 +543,36 @@
     "name": "Party Horn",
     "id": 603
   },
-  {
-    "name": "Laser Swords",
-    "id": 604
+  {    
+    "id": 604,
+    "name": "Laser Swords"
   },
   {
-    "name": "Balloon",
-    "id": 605
+    "id": 605,
+    "name": "Balloon"
   },
   {
-    "name": "Rockets",
-    "id": 606
+    "id": 606,
+    "name": "Rockets"
+  },
+  {
+    "id": 612,
+    "name": "Cupids Quiver"
+  },
+  {
+    "id": 632,
+    "name": "Teddy"
+  },
+  {
+    "id": 644,
+    "name": "Heart Balloon"
+  },
+  {
+    "id": 647,
+    "name": "Heart Aura"
+  },
+  {
+    "id": 655,
+    "name": "Heart Glasses"
   }
 ]
