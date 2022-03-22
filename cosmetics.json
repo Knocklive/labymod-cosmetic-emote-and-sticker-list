@@ -578,5 +578,29 @@
   {
     "id": 696,
     "name": "Phone"
+  },  
+  {
+    "id": 708,
+    "name": "Nest"
+  },
+  {
+    "id": 763,
+    "name": "Butterfly Aura"
+  },
+  {
+    "id": 676,
+    "name": "Flower Crown"
+  },
+  {
+    "id": 713,
+    "name": "Straw Hat"
+  },
+  {
+    "id": 728,
+    "name": "Flower Underglow"
+  },
+  {
+    "id": 731,
+    "name": "Flower Aura"
   }
 ]
