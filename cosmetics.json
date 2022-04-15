@@ -606,5 +606,25 @@
   {
     "id": 731,
     "name": "Flower Aura"
+  },
+  {
+    "id": 735,
+    "name": "Easter Egg Basket"
+  },
+  {
+    "id": 743,
+    "name": "Easter Egg Aura"
+  },
+  {
+    "id": 767,
+    "name": "Plush Bunny"
+  },
+  {
+    "id": 793,
+    "name": "Easter Bunny"
+  },
+  {
+    "id": 809,
+    "name": "Bunny Hat"
   }
 ]
