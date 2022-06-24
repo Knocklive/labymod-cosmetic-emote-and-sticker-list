@@ -616,6 +616,10 @@
     "name": "Easter Egg Aura *(Limited)*"
   },
   {
+    "id": 744,
+    "name": "Octopus Plushie *(Limited)*"
+  },
+  {
     "id": 767,
     "name": "Plush Bunny *(Limited)*"
   },
@@ -650,5 +654,37 @@
   {
     "id": 858,
     "name": "Jetpack *(Limited)*"
+  },
+  {
+    "id": 871,
+    "name": "Lei *(Limited)*"
+  },
+  {
+    "id": 900,
+    "name": "Axolotl Hat *(Limited)*"
+  },
+  {
+    "id": 903,
+    "name": "Flippers *(Limited)*"
+  },
+  {
+    "id": 914,
+    "name": "Popsicle Aura *(Limited)*"
+  },
+  {
+    "id": 924,
+    "name": "Fish Aura *(Limited)*"
+  },
+  {
+    "id": 928,
+    "name": "Ocean Underglow *(Limited)*"
+  },
+  {
+    "id": 929,
+    "name": "Arm Floaties *(Limited)*"
+  },
+  {
+    "id": 934,
+    "name": "Drinking Head *(Limited)*"
   }
 ]
