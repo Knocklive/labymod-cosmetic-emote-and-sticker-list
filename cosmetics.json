@@ -488,8 +488,32 @@
     "name": "Ice Shard Aura *(Limited)*"
   },
   {
-    "name": "BlockyWinter *(Limited)*",
+    "id": 512,
+    "name": "Phoenix Pet *(Limited)*"
+  },
+  {
+    "name": "Fire Horns *(Limited)*",
     "id": 515
+  },
+  {
+    "id": 516,
+    "name": "Devil Tail *(Limited)*"
+  },
+  {
+    "id": 517,
+    "name": "Phoenix Wings *(Limited)*"
+  },
+  {
+    "id": 518,
+    "name": "Fire Cloak Overlay *(Limited)*"
+  },
+  {
+    "id": 525,
+    "name": "Phoenix Bundle *(Limited)*"
+  },
+  {
+    "id": 526,
+    "name": "Fire Devil Bundle *(Limited)*"
   },
   {
     "name": "Animal Shoes",
