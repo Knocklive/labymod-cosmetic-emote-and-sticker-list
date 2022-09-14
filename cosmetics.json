@@ -516,6 +516,34 @@
     "name": "Fire Devil Bundle *(Limited)*"
   },
   {
+    "id" : 527,
+    "name": "Robot *(Limited)*"
+  },
+  {
+    "id": 528,
+    "name": "Cyber Glasses *(Limited)*"
+  },
+  {
+    "id": 529,
+    "name": "Headphones *(Limited)*"
+  },
+  {
+    "id": 530,
+    "name": "Cyber Wings *(Limited)*"
+  },
+  {
+    "id": 531,
+    "name": "Cyber Swords *(Limited)*"
+  },
+  {
+    "id": 532,
+    "name": "Hacker Bundle *(Limited)*"
+  },
+  {
+    "id": 533,
+    "name": "Cyborg Bundle *(Limited)*"
+  },
+  {
     "name": "Animal Shoes",
     "id": 556
   },
