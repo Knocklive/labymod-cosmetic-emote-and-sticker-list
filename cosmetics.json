@@ -400,16 +400,20 @@
     "name": "Item Halo"
   },
   {
+    "id": 320,
+    "name": "Umbrella *(Limited)*"
+  },
+  {
+    "id": 328,
+    "name": "Leaves Aura *(Limited)*"
+  },
+  {
     "id": 232,
     "name": "Instruments"
   },
   {
     "id": 255,
     "name": "Tiara"
-  },
-  {
-    "id": 328,
-    "name": "Leaves Aura *(Limited)*"
   },
   {
     "id": 380,
@@ -746,5 +750,25 @@
   {
     "id": 951,
     "name": "Technoblade *(Limited)*"
+  },
+  {
+    "id": 1008,
+    "name": "Mushroom Hat *(Limited)*"
+  },
+  {
+    "id": 1009,
+    "name": "Leaf Wings *(Limited)*"
+  },
+  {
+    "id": 1017,
+    "name": "Wooden Dragon *(Limited)*"
+  },
+  {
+    "id": 1018,
+    "name": "Autumn Animal Shoes *(Limited)*"
+  },
+  {
+    "id": 1026,
+    "name": "Squirrel Pet *(Limited)*"
   }
 ]
