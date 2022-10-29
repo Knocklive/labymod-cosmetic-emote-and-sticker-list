@@ -428,6 +428,10 @@
     "name": "Halloween Cat *(Limited)*"
   },
   {
+    "id": 428,
+    "name": "Ghost Aura *(Limited)*"
+  },
+  {
     "id": 485,
     "name": "Ice Spikes *(Limited)*"
   },
@@ -770,5 +774,29 @@
   {
     "id": 1026,
     "name": "Squirrel Pet *(Limited)*"
+  },
+  {
+    "id": 1028,
+    "name": "Spooky Wings *(Limited)*"
+  },
+  {
+    "id": 1030,
+    "name": "Cobweb Cloak Overlay *(Limited)*"
+  },
+  {
+    "id": 1031,
+    "name": "Magic Belt *(Limited)*"
+  },
+  {
+    "id": 1041,
+    "name": "Ghost Pet *(Limited)*"
+  },
+  {
+    "id": 1042,
+    "name": "Summoning Circle *(Limited)*"
+  },
+  {
+    "id": "1043",
+    "name": "Halloween Aura *(Limited)*"
   }
 ]
